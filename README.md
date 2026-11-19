@@ -8,11 +8,9 @@ O projeto contempla o gerenciamento de pacientes, médicos, quartos, internaçõ
 
 ## ⚙️ Tecnologias utilizadas
 
-- **MySQL 8.0:** Gerenciamento do banco de dados.
 - **SQL:** Criação, inserção, atualização e consulta de dados.
 - **MySQL Workbench:** Desenvolvimento e administração do banco.
-- **InnoDB:** Mecanismo de armazenamento utilizado para os relacionamentos e a integridade referencial.
-
+- 
 ---
 
 ## 🗂️ Estrutura do Banco de Dados
@@ -351,8 +349,6 @@ Entre os principais comandos utilizados estão:
 ---
 
 ## 👨‍💻 Autor
-
-Projeto desenvolvido como atividade acadêmica de Banco de Dados.
 
 **Autor:** Pedro Henrique
 
