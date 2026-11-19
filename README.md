@@ -37,7 +37,7 @@ O banco de dados `hospital_db` é composto por seis tabelas:
 ### Pré-requisitos
 
 - MySQL 8.0 ou superior.
-- MySQL Workbench ou outra ferramenta compatível com MySQL.
+- MySQL Workbench.
 
 ### 1. Criar o banco de dados
 
