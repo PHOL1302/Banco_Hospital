@@ -354,7 +354,8 @@ Entre os principais comandos utilizados estão:
 
 Projeto desenvolvido como atividade acadêmica de Banco de Dados.
 
-**Autor:** Felipe Lisboa Carvalho
+**Autor:** Pedro Henrique
+
 
 ---
 
