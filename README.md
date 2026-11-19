@@ -1,8 +1,8 @@
-# 🏥 Sistema de Gerenciamento Hospitalar
+# ➕ Kyris | Sistema de Gestão Hospitalar
 
-Projeto acadêmico de Banco de Dados Relacional desenvolvido em **MySQL**, com foco no cadastro e gerenciamento de informações hospitalares.
+Projeto acadêmico de Banco de Dados desenvolvido em **MySQL**, com o objetivo de estruturar e gerenciar informações hospitalares por meio de um banco de dados relacional.
 
-O banco de dados contém informações de pacientes, médicos, quartos, internações, consultas e prescrições médicas, organizadas em seis tabelas relacionadas entre si.
+O projeto contempla o gerenciamento de pacientes, médicos, quartos, internações, consultas e prescrições médicas, utilizando relacionamentos entre tabelas, chaves primárias e estrangeiras, além de consultas SQL para extração e análise de informações.
 
 ---
 
