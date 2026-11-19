@@ -358,7 +358,7 @@ Projeto desenvolvido como atividade acadêmica de Banco de Dados.
 
 ---
 
-## 📚 Objetivo Educacional
+## 📚 Meus estudos
 
 O projeto foi desenvolvido para aplicar os seguintes conceitos de Banco de Dados Relacionais:
 
